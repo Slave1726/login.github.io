@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border box;
+    font-family: sans-serif;
+}
+body{
+    color:#666666;
+    background-color: #f9fbf6;
+    background-image: url(killjoy.png);
+
+    background-size: cover;
+    background-position: center;
+    font-family: Georgia, times, serif;
+    line-height: 1.2en;
+    margin: 0px;
+    
+}
+h3{
+    color: white;
+}
